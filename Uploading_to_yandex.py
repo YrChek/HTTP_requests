@@ -31,7 +31,7 @@ class YaUploader:
 
 
 if __name__ == '__main__':
-    my_token = 'AQAAAAAtrpb1AADLW9d3Mv1vH0IphQHB3SiW7_o'
+    my_token = ' '
     my_path = os.path.join('C:/', 'Users', 'NoName', 'Desktop', 'Папка для загрузки')
 
     uploader = YaUploader(my_token, my_path)
